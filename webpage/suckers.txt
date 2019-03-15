@@ -1,0 +1,2 @@
+Anvar K;MC;1111111111111111;visa
+Anvar K;MC;0000000000000000;mastercard
